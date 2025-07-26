@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm currently an undergraduate in Computer Science and Engineering, specializing in Data Science at University of Moratuwa, Sri Lanka. I would like to work on projects related to Full-stack development and Machine Learning. 
+I'm currently an undergraduate in Computer Science and Engineering, specializing in Data Science at University of Moratuwa, Sri Lanka. I would like to work on projects related to Full-stack development and Machine Learning.
 
 ## 🛠️ Tech Stack
 
@@ -34,15 +34,15 @@ I'm currently an undergraduate in Computer Science and Engineering, specializing
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=ravindusw&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindusw&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindusw&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -71,7 +71,7 @@ I'm currently an undergraduate in Computer Science and Engineering, specializing
 
 ## 📫 Let's Connect!
 
-<div align="center">
+<div>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-wanigasooriya)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com) -->
@@ -81,7 +81,7 @@ I'm currently an undergraduate in Computer Science and Engineering, specializing
 
 ---
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=ravindusw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
@@ -93,6 +93,6 @@ I'm currently an undergraduate in Computer Science and Engineering, specializing
 
 --- -->
 
-<div align="center">
+<div>
   💫 Thanks for visiting my profile! Have a great day! 💫
 </div>
